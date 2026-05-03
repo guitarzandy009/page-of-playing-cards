@@ -1,0 +1,14 @@
+#playing-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  width: 3rem;
+  height: 6rem;
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+}
