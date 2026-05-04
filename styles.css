@@ -11,4 +11,34 @@
   border: 2px solid black;
   display: flex;
   justify-content: space-between;
+  background-color: #666;
+}
+
+.spade {
+  color: white;
+}
+
+.club {
+  color: lime;
+}
+
+.heart {
+  color: deeppink;
+}
+
+.diamond {
+  color: lightblue;
+}
+
+.left {
+  align-self: flex-start;
+}
+
+.middle {
+  font-size: 2.5rem;
+  align-self: center;
+}
+
+.right {
+  align-self: flex-end;
 }
