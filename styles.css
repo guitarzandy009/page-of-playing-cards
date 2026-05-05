@@ -37,6 +37,8 @@
 .middle {
   font-size: 2.5rem;
   align-self: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .right {
